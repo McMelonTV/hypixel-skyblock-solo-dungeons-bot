@@ -18,7 +18,7 @@ This bot allows you to play solo dungeons on Hypixel SkyBlock
 
 ### How to use
 
-First set up the bot by following the steps above and then send a party request to the bot account - /p <username>, then join a dungeon and you will be able to play solo
+First set up the bot by following the steps above and then send a party request to the bot account - `/p <username>`, then join a dungeon and you will be able to play solo
 
 ### Known Bugs
 
