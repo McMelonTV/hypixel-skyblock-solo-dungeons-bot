@@ -1,13 +1,15 @@
 const mineflayer = require("mineflayer")
-const config = require("./config.json")
+const { email, password, account_type } = require("./config.json")
 const fetch = require("node-fetch")
 var moment = require('moment-timezone')
 
 const bot = mineflayer.createBot({
     host: 'mc.hypixel.net',
     port: 25565,
-    username: config.minecraftemail,
-    password: config.minecraftpassword
+    version: "1.8.9",
+    username: email,
+    password: password,
+    auth: account_type
   })
 
 bot.on("login", async => {
