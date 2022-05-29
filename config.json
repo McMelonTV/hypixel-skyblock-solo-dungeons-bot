@@ -3,5 +3,5 @@
     "password": "YOUR_MINECRAFT_PASSWORD",
     "account_type": "mojang/microsoft",
     
-    "allowedUsers": ['McMelonTV', 'user1', 'user2', 'etc']
+    "allowedUsers": ["McMelonTV", "user1", "user2", "etc"]
 }
