@@ -1,0 +1,23 @@
+{
+  "name": "hypixel-skyblock-solo-dungeons-fragbot",
+  "version": "1.0.0",
+  "description": "A bot for playing solo dungeons on Hypixel SkyBlock.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McMelonTV/Self-Hosted-Hypixel-SkyBlock-Solo-Dungeons-Bot-FragBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McMelonTV/Self-Hosted-Hypixel-SkyBlock-Solo-Dungeons-Bot-FragBot/issues"
+  },
+  "homepage": "https://github.com/McMelonTV/Self-Hosted-Hypixel-SkyBlock-Solo-Dungeons-Bot-FragBot",
+  "dependencies": {
+    "mineflayer": "^3.6.0",
+    "moment-timezone": "^0.5.34"
+  }
+}
