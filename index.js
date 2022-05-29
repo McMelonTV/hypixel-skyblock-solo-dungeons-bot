@@ -1,5 +1,5 @@
 const mineflayer = require("mineflayer")
-const { email, password, account_type } = require("./config.json")
+const { email, password, account_type, allowedUsers } = require("./config.json")
 var moment = require("moment-timezone")
 
 const bot = mineflayer.createBot({
@@ -16,7 +16,6 @@ bot.on("login", async => {
 })
 
 bot.on('message', msg => {
-	var allowedUsers = require("./config.json")
     	console.log("[" + moment().tz('Europe/London').format("HH:mm:ss") + "] " + msg.toString())
     	if (allowedUsers.some(usr => msg.toString().includes(usr + " has invited you to join their party!"))) {
         	bot.chat(`/p accept ${msg.toString().replace(/-/g,"").replace("You have 60 seconds to accept. Click here to join!","").replace(" has invited you to join their party!","").replace(/(\r\n|\n|\r)/gm,"")}`)
