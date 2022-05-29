@@ -8,7 +8,8 @@ const bot = mineflayer.createBot({
     version: "1.8.9",
     username: email,
     password: password,
-    auth: account_type
+    auth: account_type,
+	hideErrors: true
   })
 
 bot.on("login", async => {
