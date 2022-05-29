@@ -1,4 +1,5 @@
 {
     "email": "YOUR_MINECRAFT_EMAIL",
-    "password": "YOUR_MINECRAFT_PASSWORD"
+    "password": "YOUR_MINECRAFT_PASSWORD",
+    "account_type": "mojang/microsoft"
 }
