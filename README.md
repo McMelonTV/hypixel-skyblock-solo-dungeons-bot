@@ -14,4 +14,4 @@ __**DISCLAIMER**__: __I am not responsible for any of your accounts in case they
 
 ### Known Bugs
 
-- The Bot will not party you if it is currently in a party with someone else [Will be fixed in v1.1.0]
+- The Bot will not party you if it is currently in a party with someone else `Will be fixed in v1.1.0`
