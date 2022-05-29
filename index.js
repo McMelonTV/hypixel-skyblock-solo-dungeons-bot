@@ -1,6 +1,5 @@
 const mineflayer = require("mineflayer")
 const { email, password, account_type } = require("./config.json")
-const fetch = require("node-fetch")
 var moment = require('moment-timezone')
 
 const bot = mineflayer.createBot({
