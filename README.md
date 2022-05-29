@@ -5,7 +5,7 @@ __**DISCLAIMER**__: __I am not responsible for any of your accounts in case they
 ### How to Install and Run
 
 0. Download and Install [NodeJS](https://nodejs.org/)
-1. Download the latest release [[zip](https://api.github.com/repos/McMelonTV/Self-Hosted-Hypixel-SkyBlock-Solo-Dungeons-Bot-FragBot/zipball)] [[tar.gz](https://api.github.com/repos/McMelonTV/Self-Hosted-Hypixel-SkyBlock-Solo-Dungeons-Bot-FragBot/tarball)]
+1. Download the latest release [[zip](https://github.com/McMelonTV/hypixel-skyblock-solo-dungeons-bot/archive/refs/tags/1.0.0.zip)] [[tar.gz](https://github.com/McMelonTV/hypixel-skyblock-solo-dungeons-bot/archive/refs/tags/1.0.0.tar.gz)]
 2. Extract the download file to a folder
 3. Put your bot account details and allowed users into config.json
 4. Run ```npm install``` inside the extracted folder
