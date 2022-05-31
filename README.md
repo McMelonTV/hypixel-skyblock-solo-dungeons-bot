@@ -1,6 +1,12 @@
-# Hypixel SkyBlock Solo Dungeons
+# Hypixel SkyBlock Solo Dungeons Bot
 
 __**DISCLAIMER**__: __I am not responsible for any of your accounts in case they get banned!__
+
+### Features
+
+- Works with both Mojang (including legacy) and Microsoft accounts
+- Only whitelisted people can use your bot
+- Automatically accepts parties
 
 ### What does this do
 
