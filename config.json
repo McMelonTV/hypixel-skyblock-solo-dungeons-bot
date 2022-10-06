@@ -1,7 +1,6 @@
 {
-    "email": "YOUR_MINECRAFT_EMAIL",
-    "password": "YOUR_MINECRAFT_PASSWORD",
-    "account_type": "mojang/microsoft",
+    "email": "YOUR_MICROSOFT_EMAIL",
+    "password": "YOUR_MICROSOFT_PASSWORD",
     
     "allowedUsers": ["McMelonTV", "user1", "user2", "etc"]
 }
