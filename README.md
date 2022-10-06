@@ -4,7 +4,7 @@ __**DISCLAIMER**__: __I am not responsible for any of your accounts in case they
 
 ### Features
 
-- Works with both Mojang (including legacy) and Microsoft accounts
+- Works with both ~~Mojang (including legacy) and~~ Update: This seems to no longer be the case seeing the Mojang auth servers no longer allow you to log in with mojang accounts but just Microsoft accounts
 - Only whitelisted people can use your bot
 - Automatically accepts parties
 
