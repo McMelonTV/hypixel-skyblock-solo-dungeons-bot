@@ -29,3 +29,4 @@ First set up the bot by following the steps above and then send a party request 
 ### Known Bugs
 
 - The Bot will not party you if it is currently in a party with someone else `Will be fixed in v1.1.0`
+- The Bot will not party you if you have a rank on hypixel due to it trying to party the whole name with the rank `Will be fixed in v1.1.0`
