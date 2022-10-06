@@ -1,5 +1,5 @@
 const mineflayer = require("mineflayer")
-const { email, password, account_type, allowedUsers } = require("./config.json")
+const { email, password, allowedUsers } = require("./config.json")
 var moment = require("moment-timezone")
 
 const bot = mineflayer.createBot({
@@ -8,7 +8,7 @@ const bot = mineflayer.createBot({
     version: "1.8.9",
     username: email,
     password: password,
-    auth: account_type,
+    auth: "microsoft",
 	hideErrors: true
   })
 
