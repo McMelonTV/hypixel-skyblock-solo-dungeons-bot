@@ -1,6 +1,6 @@
 {
   "name": "hypixel-skyblock-solo-dungeons-fragbot",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A bot for playing solo dungeons on Hypixel SkyBlock.",
   "main": "index.js",
   "scripts": {
