@@ -1,0 +1,8 @@
+- queue
+- discord logging
+
+QUEUE:
+
+bot.on(party) {
+    user.addToQueue
+}
