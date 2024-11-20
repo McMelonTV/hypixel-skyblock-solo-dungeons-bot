@@ -1,3 +1,5 @@
+# Abandoned due to lack of interest. Open an issue if you're interested in this and I might continue working on it.
+
 # Hypixel SkyBlock Solo Dungeons Bot
 
 __**DISCLAIMER**__: __I am not responsible for any of your accounts in case they get banned!__
